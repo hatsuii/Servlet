@@ -17,11 +17,11 @@ Elle vous offrira gratuitement 10 informations à propos de requête http que vo
 
 4/ lancer la commande "mvn clean package". Un repertoire target est créé.
 
-5/ copiez le fichier projetServletV1.war puis collez le dans le repertoire /webapps de votre tomcat 9.0
+5/ copiez le fichier war puis collez le dans le repertoire /webapps de votre tomcat 9.0
 
 6/ votre application s'installe automatiquement
 
-7/ tapez dans l'url de votre navigateur préféré : http://localhost:8080/projetServletV1/servletV1
+7/ tapez dans l'url de votre navigateur préféré : http://localhost:8080/projetServlet/servletV1
 
 8/ jetez un oeil à votre console tomcat ouverte à l'étape 1... voici les 10 informations à propos de requête http que vous vouliez démesurément savoir !
 
@@ -43,7 +43,7 @@ Elle vous offrira gratuitement 10 informations à propos de requête http que vo
 
 4/ lancer la commande "mvn clean package". Un repertoire target est créé.
 
-5/ copiez le fichier projetServletV2.war puis collez le dans le repertoire /webapps de votre tomcat 9.0
+5/ copiez le fichier war puis collez le dans le repertoire /webapps de votre tomcat 9.0
 
 6/ votre application s'installe automatiquement
 
@@ -69,7 +69,7 @@ Elle vous offrira gratuitement 10 informations à propos de requête http que vo
 
 4/ lancer la commande "mvn clean package". Un repertoire target est créé.
 
-5/ copiez le fichier projetServletV2.war puis collez le dans le repertoire /webapps de votre tomcat 9.0
+5/ copiez le fichier war puis collez le dans le repertoire /webapps de votre tomcat 9.0
 
 6/ votre application s'installe automatiquement
 
